@@ -1,0 +1,15 @@
+rect(20,20,200,200)
+var x===1;
+draw = function {
+	if(mouseIsClicked) {
+		x=x+1;
+	};
+	while(Number.isInteger(x/2)) {
+		fill(100,100,100);
+	} else {
+		fill(255,255,255);
+	};
+
+	
+	
+};
